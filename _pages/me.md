@@ -4,9 +4,9 @@ title: "About"
 classes: wide
 layout: single
 ---
-I am a beginner in the field of Information Technology with an educational background as a graduate in Software Rekayasa Perangkat Lunak (RPL). Although I am just starting my career journey in the technology world, my strong enthusiasm is to understand and develop my skills in programming and cybersecurity.
+I am a beginner in the field of Information Technology with an educational background as a graduate in Rekayasa Perangkat Lunak (RPL). Although I am just starting my career journey in the technology world, my strong enthusiasm is to understand and develop my skills in programming and cybersecurity.
 
-As a graduate in Software Rekayasa Perangkat Lunak (RPL), I have acquired a solid knowledge base in software development and programming.
+As a graduate in Rekayasa Perangkat Lunak (RPL), I have acquired a solid knowledge base in software development and programming.
 
 Furthermore, my specific interest lies in the field of cybersecurity. Despite being in the early stages, I am currently learning to grasp the basic concepts of cybersecurity, including threat detection and effective security practices. I am aware of the crucial importance of security in today's digital age and am committed to continuously learning and growing in this field.
 
