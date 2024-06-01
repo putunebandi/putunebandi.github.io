@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Memulai Setiap Langkah dengan Bismillah",
-        "excerpt":"Dalam setiap perjalanan hidup, banyak di antara kita yang sering kali merasa khawatir, ragu, atau bahkan takut menghadapi tantangan yang muncul di depan. Namun, sebuah kata sederhana namun penuh makna, “Bismillah,” dapat menjadi kunci untuk membuka pintu keberanian, kesuksesan, dan ketenangan dalam menjalani setiap langkah hidup. بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ...","categories": [],
+        "title": "Metode pelacakan lokasi perangkat elektronik",
+        "excerpt":"Saya merasa perlu menulis artikel ini karena sering kali saya diminta untuk melacak posisi seseorang, yang sebenarnya tidak bisa dilakukan oleh orang sipil biasa tanpa alat khusus dan izin yang tepat. Bayangkan, keluarga, teman, atau kenalan sering kali berpikir bahwa saya memiliki kemampuan seperti mata-mata, yang dapat mengetahui di mana...","categories": [],
         "tags": [],
-        "url": "/bismillah/",
+        "url": "/cara-melacak-lokasi-ponsel/",
         "teaser": null
       }]
