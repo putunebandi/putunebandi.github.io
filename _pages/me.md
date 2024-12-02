@@ -24,7 +24,6 @@ Here are some of my projects:
 
 | Name   | Description | Language |
 | ------------| ------------| ------------|
-| [searchsan](https://github.com/putunebandi/searchsan) | Bulk Google searches seamlessly, powered by the serper.dev API | Python |
 | [BandiSecurity](https://github.com/putunebandi/php-security-plugin) | Simple implementation to improve security in PHP applications | PHP |
 
 ## Let's Work Together
