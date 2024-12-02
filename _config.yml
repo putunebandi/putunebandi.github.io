@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "PutuneBandi"
 title_separator          : "-"
-subtitle                 : "Zero-Day Ronin" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Rizki Wahyu Pratama"
 description              : "Junior programmer and cyber security."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Rizki Wahyu Pratama"
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ojo dhuwur, ojo cilik!"
+  bio              : ""
   location         : "Malang, Indonesia."
   email            :
   links:
