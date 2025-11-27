@@ -1,14 +1,7 @@
 source "https://rubygems.org"
 
-# use local theme gem for testing
-gem "minimal-mistakes-jekyll"
-group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
-end
+# Gunakan GitHub Pages gem (wajib untuk GitHub Pages)
+gem "github-pages", group: :jekyll_plugins
 
-#gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem "webrick"
-gem "csv"
-gem "base64"
-gem "bigdecimal"
-gem "mutex_m"
+# Plugin tambahan yang diperlukan Minimal Mistakes
+gem "jekyll-include-cache", group: :jekyll_plugins
